@@ -1,3 +1,4 @@
+
 const filters = {
 	query: '',
 	show_filters: false,
@@ -9,6 +10,6 @@ const filters = {
 		isolation_height: 700,
 		isolation_distance: 2000
 	}
-}
+};
 
 export default filters;
